@@ -22,6 +22,8 @@ Table #3
 Line 5 "[SerializeField] private" to make it editable in Unity while it is kept only in this class, float to declare the type, and declare a variable with a value.
 Line 22 declare a float member variable with product of user input on vertical based on the method called GetAxis from class Input and speed and time.
 Line 25 transform is a variable and calling a method Translate, with parameter of original startup position. 
+1. Cat: Rigidbody, Capsule Collider. SoccerBall: Rigidbody, Sphere Collider. Goal: BoxCollider"Is Trigger"
+2. To set the point as a private int outside of the if, since everytime when if is triggered the point will be reset to 0 again.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
