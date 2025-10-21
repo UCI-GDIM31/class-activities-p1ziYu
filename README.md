@@ -17,6 +17,11 @@ Parameters(input) will be float that go with time the beat is hit by players and
 1. Components are the concert, classes are the performance, member variables are the performers, and methods are the instruments
 2. Because ballRenderer.color *= GetColorMultiplier(Mathf.Abs(_rigidbody.linearVelocity.x), Mathf.Abs(_rigidbody.linearVelocity.y)); shows that the color of the ball is highly bind with velocity
 
+### W4
+Table #3
+Line 5 "[SerializeField] private" to make it editable in Unity while it is kept only in this class, float to declare the type, and declare a variable with a value.
+Line 22 declare a float member variable with product of user input on vertical based on the method called GetAxis from class Input and speed and time.
+Line 25 transform is a variable and calling a method Translate, with parameter of original startup position. 
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
