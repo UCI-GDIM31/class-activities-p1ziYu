@@ -24,6 +24,10 @@ Line 22 declare a float member variable with product of user input on vertical b
 Line 25 transform is a variable and calling a method Translate, with parameter of original startup position. 
 1. Cat: Rigidbody, Capsule Collider. SoccerBall: Rigidbody, Sphere Collider. Goal: BoxCollider"Is Trigger"
 2. To set the point as a private int outside of the if, since everytime when if is triggered the point will be reset to 0 again.
+
+### W5
+Question: What happens if I use GetComponent<T>() to find a component that isn't attached to the GameObject?
+Answer: It will return null.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
