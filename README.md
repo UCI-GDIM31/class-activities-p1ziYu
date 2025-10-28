@@ -28,6 +28,10 @@ Line 25 transform is a variable and calling a method Translate, with parameter o
 ### W5
 Question: What happens if I use GetComponent<T>() to find a component that isn't attached to the GameObject?
 Answer: It will return null.
+
+Part1: 
+1. _target, _navMeshAgent
+23. Start() to let the deer start moving, Update() if you want the deer to follow the cat, GetComponent<> to get the NavMeshAgent class, SetDestination() to set the destination for NavMeshAgent
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
