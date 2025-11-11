@@ -40,7 +40,7 @@ Part1:
 
 ### W7
 1. Activity 1. Link https://docs.google.com/document/d/1yZqnc3GyaietJAPdXlV0iO8EaXxBU-2bWMjaaw1TMe4/edit Animation
-2. Activity 2. Vector3 uses the global axis, while transform focuses on local.
+2. Activity 2. Original one is working on global axis, but transform.Translate is working on local axis
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
