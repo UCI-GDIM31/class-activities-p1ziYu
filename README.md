@@ -37,6 +37,10 @@ Part1:
 1. speed, _playerTransform, player
 2. EnableChase, DisableChase, Update, MoveTowards
 3. EnableChase to enable the methods of MonoBehaviour, DisableChase to disable the methods of MonoBehaviour, Update to keep track the bats and cat position and let bats to MoveTowards to cat.
+
+### W7
+1. Activity 1. Link https://docs.google.com/document/d/1yZqnc3GyaietJAPdXlV0iO8EaXxBU-2bWMjaaw1TMe4/edit Animation
+2. Activity 2. Vector3 uses the global axis, while transform focuses on local.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
